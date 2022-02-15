@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-
+<img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/rocketseat-education/nlw-06-discover/blob/main/.github/rocketq.png?raw=true" width="220px" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
