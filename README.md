@@ -43,8 +43,15 @@ This project is under the license of MIT. See the [LICENSE](.github/LICENSE.md) 
 
 ## Start and Make your changes
  Use *npm install* for download all the dependencies
- ## Or
+ # Or
  Use *yarn add* for download all the dependencies
+ 
+ ## Create a new database with
+ *Yarn init-db*
+ # Or
+ *npm run init-db
+ 
+ 
 
 Thanks Rocketseat #NLW #NeverStopLearning
 Feito com ♥ by Rocketseat :wave: [JoinOurCommunity!](https://discordapp.com/invite/gCRAFhc)
