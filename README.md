@@ -41,6 +41,10 @@ This project is under the license of MIT. See the [LICENSE](.github/LICENSE.md) 
 
 ---
 
+## Start and Make your changes
+ Use *npm install* for download all the dependencies
+ ## Or
+ Use *yarn add* for download all the dependencies
 
 Thanks Rocketseat #NLW #NeverStopLearning
 Feito com ♥ by Rocketseat :wave: [JoinOurCommunity!](https://discordapp.com/invite/gCRAFhc)
