@@ -31,13 +31,6 @@ This project was developed with the following techs:
 
 Rocket.Q is an interaction application through questions, being possible to create a room for anonymous internet users to ask questions and the creator of the room in possession of a password manage these questions and mark as read.
 
-## How to use?
-Download this repositorie and with your teminal, enter in the directory
-
-1. Run the command npm install to install the dependencies
-2. After, run the command npm run init-db to install the database
-3. And to start the application, run the command npm start 
-
 ## 🔖 Layout
 
 You can view the project layout through [this link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). You must have an account in [Figma](https://figma.com) to access it.
@@ -48,17 +41,13 @@ This project is under the license of MIT. See the [LICENSE](.github/LICENSE.md) 
 
 ---
 
-## Start and Make your changes
- Use *npm install* for download all the dependencies
- # Or
- Use *yarn add* for download all the dependencies
- 
- ## Create a new database with
- *Yarn init-db*
- # Or
- *npm run init-db
- 
- 
 
+## How to use?
+Download this repositorie and with your teminal, enter in the directory
+
+1. Run the command npm install to install the dependencies
+2. After, run the command npm run init-db to install the database
+3. And to start the application, run the command npm start
+   
 Thanks Rocketseat #NLW #NeverStopLearning
 Feito com ♥ by Rocketseat :wave: [JoinOurCommunity!](https://discordapp.com/invite/gCRAFhc)
